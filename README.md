@@ -1,4 +1,4 @@
-# jieyeproject
+# project
 
 > A Vue.js project
 
